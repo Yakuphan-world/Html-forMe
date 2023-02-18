@@ -1,0 +1,46 @@
+*{
+      margin:0px;
+} 
+
+body{
+      background-color: black;
+}
+.container{
+      margin: auto;
+      text-align: center;
+      background-color: beige;
+      width:80%;
+      height: 1000px;
+} 
+h1{
+      font-size: 30px;
+      color: brown;
+}
+.sertifikalar{
+      
+      border: 10px;
+      box-sizing: content-box;
+      float: right;
+}
+.baslik{
+      float: left;
+}
+.baslik2{
+
+      float: left;
+}
+
+
+
+
+.foto{
+
+      width: 100%;
+}
+
+header{
+      text-align: center;
+      padding: 20px;
+
+
+}

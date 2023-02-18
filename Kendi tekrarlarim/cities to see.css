@@ -1,0 +1,62 @@
+*{
+      margin:0px;
+
+} body{
+    
+
+
+}
+header {  text-align: center;
+   font-size: 40px;
+   background-color: gray; height: 90px;
+   background-image: url(/Infra_citities_banner_lr.jpg);
+} 
+div{   float: left;
+       height: 800px;
+       margin-right:90px ; 
+       background-color: darkgray ;
+       width: 30%;
+       line-height: 500%;
+
+
+}
+ul{ list-style-type: none;
+      padding: 10px;
+} 
+li{ 
+      padding: 5px;
+      background-color: rgb(83, 82, 82);
+      border: 1px white solid;
+      /* border-color: white; */
+
+}
+li:hover{
+      background-color: rgb(143, 141, 141);
+  } 
+section{ 
+ 
+ background-color: dimgray;
+ height: 600px;
+ width:100%;
+ margin-left:10px;
+ padding-left:0px;
+ 
+}
+#citytex{ 
+      
+    
+    
+}
+#a1{ text-align: center;
+
+}
+p{
+
+
+}
+footer{ 
+      
+ height: 100px;
+ text-align: center;
+ background-color: gray;
+}

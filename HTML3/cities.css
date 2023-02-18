@@ -1,0 +1,61 @@
+
+    *{
+        margin: 0px;
+        /* align-items: center; */
+
+    }
+    header{
+        background-color: coral;
+    }
+    
+    div{
+        width: 1000px;
+        margin: auto;
+        /* margin-left: 10% ;
+        margin-right: 10% ; */
+        
+
+    }
+    table{
+        /* border-style: solid; */
+        width: 1000px;
+        
+    }
+    img{width: 220px;
+        height: 150px;
+        border-radius: 10px;
+        
+    }
+    img:hover{
+        opacity: 0.5;
+        
+    }
+    #header{
+        /* background-color: blanchedalmond; */
+        height: 100px;
+    }
+    h1{
+        font-family: 'Dancing Script', cursive;
+        text-align: right;
+        text-shadow: 10px 10px 10px black;
+        padding: 20px;
+    }
+    td{
+        text-align: center;
+    }
+    ul{
+        /* margin-top: 20px; */
+        margin-top:-10px ;
+        list-style-type: none;
+    }
+    li{
+        float: right;
+        padding:10px ;
+    }
+    a{
+        text-decoration: none;
+        color: green;
+            
+    }
+    
+    
